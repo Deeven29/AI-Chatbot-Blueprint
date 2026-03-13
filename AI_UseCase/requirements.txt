@@ -6,3 +6,6 @@ langchain-core
 sentence-transformers
 duckduckgo-search
 numpy
+langchain-text-splitters
+PyPDF2
+faiss-cpu
